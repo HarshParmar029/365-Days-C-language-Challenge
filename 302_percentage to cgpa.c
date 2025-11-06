@@ -1,7 +1,7 @@
 #include <stdio.h>
 // Function to convert Percentage to CGPA
 float percentageToCgpa(float percent) {
-    return percent / 9.5;   // Formula: CGPA = Percentage ÷ 9.5
+    return percent / 9.5;   // Formula: CGPA = Percentage Ã· 9.5
 }
 int main() {
     float percent[5], cgpa[5];
